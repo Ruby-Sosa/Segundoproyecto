@@ -10,7 +10,7 @@
         </x-alert2>
         <p>Hola mundo</p>
         <!-- Lista de componentes para botones -->
-        <x-button type='sucess' id='sucess'>Boton de Inicio</x-button>
+        <x-button type='success' id='success'>Boton de Inicio</x-button>
         <x-button type='danger' id='danger'>Boton de Danger</x-button>
         <x-button type='warning' id='warning'>Boton de warning</x-button>
     </div>
